@@ -1,0 +1,93 @@
+.env
+.env.*
+node_modules
+.DS_Store
+.idea
+.env
+.env.*
+node_modules
+.env
+.DS_Store
+.idea
+/Users/storm/letitstorm-bot
+storm@Mac-mini-Vladimir letitstorm-bot % touch .gitignore
+
+storm@Mac-mini-Vladimir letitstorm-bot % ls -a
+
+.			.DS_Store		.git			.idea			index.js		package-lock.json	scripts
+..			.env			.gitignore		:bot			node_modules		package.json		services
+storm@Mac-mini-Vladimir letitstorm-bot % nano .gitignore
+
+
+  UW PICO 5.09                                                                    File: .gitignore                                                                       
+
+node_modules
+.env
+.DS_Store
+.idea
+
+
+nano .gitignore
+.env
+.env.*
+node_modules
+.DS_Store
+.idea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            [ Wrote 5 lines ]                                                                            
+^G Get Help                 ^O WriteOut                 ^R Read File                ^Y Prev Pg                  ^K Cut Text                 ^C Cur Pos                  
+^X Exit                     ^J Justify                  ^W Where is                 ^V Next Pg                  ^U UnCut Text               ^T To Spell     
+/Users/storm/letitstorm-bot
+storm@Mac-mini-Vladimir letitstorm-bot % touch .gitignore
+
+storm@Mac-mini-Vladimir letitstorm-bot % ls -a
+
+.			.DS_Store		.git			.idea			index.js		package-lock.json	scripts
+..			.env			.gitignore		:bot			node_modules		package.json		services
+storm@Mac-mini-Vladimir letitstorm-bot % nano .gitignore
+
+
+  UW PICO 5.09                                                                    File: .gitignore                                                                       
+
+node_modules
+.env
+.DS_Store
+.idea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            [ Wrote 5 lines ]                                                                            
+^G Get Help                 ^O WriteOut                 ^R Read File                ^Y Prev Pg                  ^K Cut Text                 ^C Cur Pos                  
+^X Exit                     ^J Justify                  ^W Where is                 ^V Next Pg                  ^U UnCut Text               ^T To Spell     
+cd ~/letitstorm-bot
+
+git rm -r --cached node_modules
+git rm --cached .env
+
+
